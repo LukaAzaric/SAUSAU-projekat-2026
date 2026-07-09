@@ -12,13 +12,13 @@ Kako pokrenuti projekat (sve komande iz root foldera projekta):
 
 **Pokreni fajlove ovim redosledom**
 
-&#x20;  python src/preprocessing.py
+&#x20;  py src/preprocessing.py
 
-&#x20;  python src/eda.py
+&#x20;  py src/eda.py
 
-&#x20;  python src/train\_model.py
+&#x20;  py src/train\_model.py
 
-&#x20;  python src/feature\_importance.py
+&#x20;  py src/feature\_importance.py
 
 **Pokreni API**
 
